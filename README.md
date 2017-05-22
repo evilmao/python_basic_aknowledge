@@ -1,0 +1,2 @@
+# python_basic_aknowledge
+python基础指示代码训练

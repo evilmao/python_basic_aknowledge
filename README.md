@@ -1,2 +1,2 @@
 # python_basic_aknowledge
-python基础指示代码训练
+python基础知识实例代码
